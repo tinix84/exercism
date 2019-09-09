@@ -7,5 +7,6 @@
 #include <math.h>
 
 char isArmstrongNumber(unsigned int number);
+unsigned int calcNumberOfDigits(unsigned int number);
 
 #endif
